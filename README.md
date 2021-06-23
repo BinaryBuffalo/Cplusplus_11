@@ -6,7 +6,7 @@
 #			
 #             My code might be helpfull or usefull
 #             I Wrote this Up fairly Quick I did alot
-#             more research & Markups. THanks Edx
+#             more research & Markups. Thanks Edx
 #          
 # 
 #      All this code is in c++ 11. 
