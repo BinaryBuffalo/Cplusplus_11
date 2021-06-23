@@ -5,9 +5,9 @@
 #
 #			
 #             My code might be helpfull or usefull
-#             I also didn't see anyone asking the right questions
-#              on the forums asking the right questions.
-#
+#             I Wrote this Up fairly Quick I did alot
+#             more research & Markups. THanks Edx
+#          
 # 
 #      All this code is in c++ 11. 
 
